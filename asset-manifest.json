@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "static/css/main.81b857cf.css",
-    "main.js": "static/js/main.7b7db570.js",
-    "static/js/787.5fc8b2d5.chunk.js": "static/js/787.5fc8b2d5.chunk.js",
-    "static/media/bg_image.png": "static/media/bg_image.c08d74cb3852c87decf0.png",
-    "static/media/phone_reflection.png": "static/media/phone_reflection.444e898f90a2478baa52.png",
-    "static/media/phone-smaller.png": "static/media/phone-smaller.81bd62600b98086527a7.png",
-    "static/media/en_badge_web_generic.png": "static/media/en_badge_web_generic.1cc347624b4acec5dd69.png",
-    "static/media/appstore.svg": "static/media/appstore.15f01eefb2013206cc7e26d98fbe95fb.svg",
-    "index.html": "index.html",
-    "main.81b857cf.css.map": "static/css/main.81b857cf.css.map",
-    "main.7b7db570.js.map": "static/js/main.7b7db570.js.map",
-    "787.5fc8b2d5.chunk.js.map": "static/js/787.5fc8b2d5.chunk.js.map"
+    "main.css": "/static/css/main.81b857cf.css",
+    "main.js": "/static/js/main.468c237d.js",
+    "static/js/787.5fc8b2d5.chunk.js": "/static/js/787.5fc8b2d5.chunk.js",
+    "static/media/bg_image.png": "/static/media/bg_image.c08d74cb3852c87decf0.png",
+    "static/media/phone_reflection.png": "/static/media/phone_reflection.444e898f90a2478baa52.png",
+    "static/media/phone-smaller.png": "/static/media/phone-smaller.81bd62600b98086527a7.png",
+    "static/media/en_badge_web_generic.png": "/static/media/en_badge_web_generic.1cc347624b4acec5dd69.png",
+    "static/media/appstore.svg": "/static/media/appstore.15f01eefb2013206cc7e26d98fbe95fb.svg",
+    "index.html": "/index.html",
+    "main.81b857cf.css.map": "/static/css/main.81b857cf.css.map",
+    "main.468c237d.js.map": "/static/js/main.468c237d.js.map",
+    "787.5fc8b2d5.chunk.js.map": "/static/js/787.5fc8b2d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81b857cf.css",
-    "static/js/main.7b7db570.js"
+    "static/js/main.468c237d.js"
   ]
 }
